@@ -59,7 +59,7 @@ class EmailSend():
         print("file list in sftp server {}".format(file_list))
         return file_list
 ```
-#sftp connection
+
 - Open the file for compare
 ```
     def open_stored_file_list(self):
